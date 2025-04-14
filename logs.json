@@ -1,12 +1,8165 @@
 [
     {
-        "user_id": "user1",
-        "action": "login",
-        "timestamp": "2025-04-14T10:00:00Z"
+        "userId": "user_026",
+        "timestamp": "2025-04-02T22:44:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0145"
+        }
     },
     {
-        "user_id": "user2",
-        "action": "click",
-        "timestamp": "2025-04-14T10:05:00Z"
+        "userId": "user_049",
+        "timestamp": "2025-04-03T19:28:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-03T12:59:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-02T06:51:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0195",
+            "price": 144.04
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-03T22:08:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-06T04:07:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-05T06:47:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0153",
+            "price": 91.42
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-03T05:03:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-10T14:42:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-10T19:49:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0156"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-03T10:03:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-09T06:01:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0155",
+            "price": 71.4
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-04T19:44:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-03T08:33:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0132",
+            "price": 112.36
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-07T23:42:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0186",
+            "price": 156.47
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-01T14:02:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0141"
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-05T23:48:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0105",
+            "price": 25.44
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-07T19:55:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-01T15:52:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-09T04:42:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0196"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-10T17:41:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0164",
+            "price": 152.14
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-02T21:50:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-05T07:46:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0129"
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-03T15:35:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0165",
+            "price": 130.37
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-10T06:27:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-07T19:30:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0102",
+            "price": 118.51
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-06T20:46:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-08T08:21:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0144"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-10T05:55:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0183"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-08T22:51:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0155",
+            "price": 105.35
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-05T20:30:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-08T13:56:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-10T06:14:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-06T22:52:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0182"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-04T03:36:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-05T12:31:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-06T22:30:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-06T13:53:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0131",
+            "price": 19.4
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-05T11:17:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_017",
+        "timestamp": "2025-04-08T01:11:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0151",
+            "price": 49.58
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-02T23:10:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-06T22:19:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-10T10:49:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-10T20:40:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-10T13:17:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0131"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-11T07:41:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0121"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-09T02:11:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-09T19:27:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0111"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-05T07:36:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-02T04:33:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-01T10:13:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-02T08:04:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0162"
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-10T06:26:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-01T21:53:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0116"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-02T22:28:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_025",
+        "timestamp": "2025-04-04T03:03:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0169"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-10T07:24:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0155"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-02T15:05:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0102"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-01T18:00:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-06T12:00:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0174"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-07T08:51:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0127"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-08T23:45:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0155",
+            "price": 115.59
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-05T16:17:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-02T21:58:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0129"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-08T10:25:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0158",
+            "price": 74.94
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-07T22:22:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0143"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-03T10:36:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-04T04:06:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0194"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-04T18:35:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0184",
+            "price": 25.95
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-01T21:45:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0107"
+        }
+    },
+    {
+        "userId": "user_017",
+        "timestamp": "2025-04-01T19:53:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-06T02:51:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-03T16:37:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0126"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-06T04:13:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0138",
+            "price": 103.71
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-03T11:23:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0184"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-07T16:45:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-10T14:30:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-03T09:28:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0180",
+            "price": 25.65
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-05T10:34:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-09T10:26:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0198"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-10T22:03:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-05T08:12:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-03T14:21:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-03T13:08:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0179",
+            "price": 27.81
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-01T08:26:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-03T08:40:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0137"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-06T23:02:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-07T19:33:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0137"
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-09T02:16:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-02T17:44:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-10T21:45:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-08T15:15:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-04T20:23:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-04T02:07:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0168"
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-06T04:56:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-08T00:24:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-09T17:04:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-06T16:34:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-11T04:28:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0184"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-06T15:52:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-07T22:01:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0185",
+            "price": 144.15
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-06T05:43:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0117",
+            "price": 77.81
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-03T19:24:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0119"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-10T05:45:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-05T14:19:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0102",
+            "price": 16.15
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-10T11:12:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-05T19:10:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-01T11:46:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0100"
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-05T05:15:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-06T07:19:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0152",
+            "price": 40.05
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-08T09:34:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0185",
+            "price": 95.86
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-03T11:05:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-07T10:09:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-06T06:55:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0152"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-04T01:22:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-05T15:50:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-10T01:36:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0139",
+            "price": 125.51
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-05T03:42:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0161",
+            "price": 184.19
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-05T23:39:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0197",
+            "price": 36.19
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-03T05:16:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0151"
+        }
+    },
+    {
+        "userId": "user_017",
+        "timestamp": "2025-04-08T04:34:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-09T14:18:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0105",
+            "price": 163.91
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-04T04:22:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-03T08:17:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0176"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-07T05:55:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0183",
+            "price": 60.64
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-08T16:26:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-05T08:58:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0117"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-06T00:12:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-11T05:34:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-02T20:15:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0187"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-10T23:45:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0191",
+            "price": 118.73
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-05T01:37:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0147"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-03T13:02:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-10T12:41:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0195"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-07T08:48:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0135"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-02T02:00:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0170"
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-09T14:51:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-07T20:10:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-07T22:46:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0128"
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-03T13:09:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0114",
+            "price": 71.35
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-08T10:19:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-04T18:35:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0149"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-05T18:20:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-05T16:01:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0197"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-06T23:11:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-08T03:21:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0109",
+            "price": 138.38
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-07T04:41:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0196"
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-11T07:28:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0192",
+            "price": 193.89
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-03T08:00:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0163"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-05T02:07:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0115",
+            "price": 62.49
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-05T09:11:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0122",
+            "price": 96.44
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-11T04:10:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0103",
+            "price": 134.52
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-06T18:30:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-10T15:18:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0159"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-05T19:47:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0190"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-08T07:28:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-09T22:27:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-01T09:13:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0192"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-10T02:53:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-06T07:57:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-05T12:51:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-02T17:49:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-06T04:42:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-06T20:26:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0102",
+            "price": 22.66
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-08T13:36:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-05T11:13:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-04T19:02:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-09T16:10:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-03T16:30:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0129"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-06T20:12:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0167"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-11T00:24:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0176"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-01T14:10:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0170",
+            "price": 125.47
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-03T03:00:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0181",
+            "price": 74.51
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-04T10:41:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-02T20:32:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-08T07:59:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-05T23:27:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0173",
+            "price": 179.82
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-06T14:10:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0135"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-09T22:56:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0104"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-09T17:13:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0105"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-07T02:31:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0132"
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-02T00:31:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0171",
+            "price": 111.66
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-03T13:34:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-07T21:40:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-03T01:16:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-08T19:18:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0130"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-03T08:57:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-02T03:44:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-10T04:58:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-09T06:30:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0119"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-06T08:25:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0176"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-09T18:39:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-06T22:03:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0118"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-05T21:16:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-09T09:54:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-09T13:42:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-02T01:37:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-04T18:27:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0160"
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-05T19:42:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-10T16:05:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0117",
+            "price": 36.76
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-02T03:29:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-10T11:27:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-02T12:47:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-05T04:53:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0134",
+            "price": 50.69
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-02T14:06:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0187",
+            "price": 158.33
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-07T15:40:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0183"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-11T01:41:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0130"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-01T16:53:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-02T06:33:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-05T13:35:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-07T01:26:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0168"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-04T00:22:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-04T10:24:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0197"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-09T02:33:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0129",
+            "price": 38.93
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-03T01:33:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-04T16:13:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-07T22:51:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-06T19:00:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0119"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-01T20:33:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-03T10:07:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-08T20:35:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0128",
+            "price": 19.18
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-08T11:55:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-04T12:13:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-07T06:13:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0177"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-07T06:49:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-07T19:56:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0125"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-08T15:55:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0105",
+            "price": 191.48
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-05T03:56:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-07T14:10:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0164"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-02T21:58:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-06T18:54:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0170"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-08T16:27:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-03T08:42:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-02T07:59:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-09T00:16:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-04T00:36:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_017",
+        "timestamp": "2025-04-09T01:52:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-04T15:55:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0119"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-10T14:48:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0122"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-06T16:12:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-07T20:07:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0184"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-11T00:56:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0191",
+            "price": 114.5
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-11T06:13:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-07T07:24:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0146"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-01T15:50:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0181"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-07T20:37:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-09T03:34:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0155"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-08T13:14:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0144",
+            "price": 191.72
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-08T22:56:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-10T00:46:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0148"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-01T11:15:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-04T03:42:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-10T11:10:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-03T06:28:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_025",
+        "timestamp": "2025-04-09T11:11:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0174"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-01T09:10:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-11T00:39:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0131",
+            "price": 180.38
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-09T19:47:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-05T23:48:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0118"
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-07T18:41:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0119",
+            "price": 22.52
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-04T06:15:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-02T19:52:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-11T03:04:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-07T04:56:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0124"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-09T09:57:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0133"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-10T13:24:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0143"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-07T06:15:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-07T13:31:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0146",
+            "price": 178.17
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-05T19:26:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-07T00:50:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-04T17:41:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0191"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-03T11:15:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-07T16:20:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-05T02:20:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0189"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-08T00:20:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-07T10:52:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0133",
+            "price": 143.8
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-07T06:41:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-01T19:57:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-03T20:13:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-03T01:23:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-05T09:33:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-07T10:21:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0173"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-06T13:43:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-01T14:38:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0142",
+            "price": 104.69
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-05T12:24:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0101"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-08T20:24:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-10T05:37:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0122",
+            "price": 158.02
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-09T08:54:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-04T18:19:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0183"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-04T09:02:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-09T04:53:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-03T09:05:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-06T02:35:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0101"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-02T12:25:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-01T17:21:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0188",
+            "price": 60.41
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-01T13:54:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-06T20:43:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0118",
+            "price": 30.65
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-08T08:43:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0122",
+            "price": 66.04
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-03T05:01:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0175"
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-04T17:34:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-08T08:11:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-05T11:54:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-07T03:05:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-07T00:44:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-06T03:59:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0196",
+            "price": 49.1
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-05T10:16:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-07T05:06:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-03T22:18:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-07T18:19:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0187",
+            "price": 119.49
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-04T06:45:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0188",
+            "price": 90.87
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-07T23:45:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-08T18:31:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0178",
+            "price": 67.84
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-08T05:35:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-07T16:27:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-04T04:53:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0181",
+            "price": 64.21
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-04T10:41:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-06T04:36:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0121"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-05T16:58:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-05T13:56:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0127"
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-05T12:22:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0194",
+            "price": 9.43
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-09T23:41:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-07T05:45:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0179",
+            "price": 102.28
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-04T08:54:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0102"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-02T21:39:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0173"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-05T05:50:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-06T00:03:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0178"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-05T16:23:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_025",
+        "timestamp": "2025-04-07T21:33:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-06T14:36:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-01T14:30:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-01T23:48:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-02T04:44:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-10T19:44:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0196"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-08T14:13:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-04T05:13:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-07T10:44:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-02T22:48:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0143"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-06T02:37:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0119"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-09T11:52:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-10T00:17:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-09T02:27:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-07T06:00:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-03T07:08:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0182"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-03T13:00:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0149"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-02T17:21:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-06T19:04:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0121",
+            "price": 187.85
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-09T10:20:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0168"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-07T11:20:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-01T09:16:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-02T06:49:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-03T05:09:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0127",
+            "price": 35.12
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-07T11:22:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0157"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-02T17:32:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-10T22:09:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-07T04:03:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-06T19:05:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0152",
+            "price": 148.92
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-10T12:24:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-04T04:57:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-06T22:10:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0146",
+            "price": 95.83
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-06T01:15:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-06T00:42:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0112",
+            "price": 189.91
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-10T09:10:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_025",
+        "timestamp": "2025-04-02T01:53:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0171"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-05T15:20:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0130"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-09T00:11:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-09T22:01:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0173",
+            "price": 97.84
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-04T11:08:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0125"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-03T04:38:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-10T09:23:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-07T22:26:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-07T02:42:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0117"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-08T10:52:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-06T08:59:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-07T12:01:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0137"
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-01T19:11:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-09T11:57:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-10T07:52:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-04T05:34:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-08T16:46:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-03T19:26:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0154",
+            "price": 95.39
+        }
+    },
+    {
+        "userId": "user_025",
+        "timestamp": "2025-04-02T13:05:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0116",
+            "price": 129.48
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-04T00:37:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0138"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-07T14:39:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0105"
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-06T12:17:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0115"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-07T17:22:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0158"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-09T13:35:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-03T08:37:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0152"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-08T10:02:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0154"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-07T18:48:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0178"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-05T04:45:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0140"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-02T07:46:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0167"
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-05T18:18:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-02T21:22:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0177",
+            "price": 14.91
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-09T06:04:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0129"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-05T16:59:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0116"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-06T01:58:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0146"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-09T02:08:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-09T08:35:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0167",
+            "price": 143.18
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-04T20:02:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0102",
+            "price": 134.65
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-10T14:12:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-02T03:07:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-04T18:29:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0135",
+            "price": 180.76
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-03T17:41:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0145"
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-04T11:51:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-04T07:02:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-08T23:18:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-05T01:38:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0158"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-07T01:01:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0112"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-02T05:04:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-01T09:48:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-10T22:55:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_017",
+        "timestamp": "2025-04-07T13:21:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-09T09:37:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0129",
+            "price": 68.71
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-01T12:46:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-10T20:42:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-09T07:55:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0121"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-04T05:22:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-05T06:25:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0122",
+            "price": 66.55
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-02T13:47:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0139",
+            "price": 84.04
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-10T06:50:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-03T12:11:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0102"
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-02T17:57:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-08T18:25:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-07T06:12:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-04T05:19:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0148",
+            "price": 33.49
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-10T14:18:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0114",
+            "price": 29.06
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-05T13:21:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-08T05:16:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0182"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-10T22:46:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-09T11:31:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-02T03:25:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0130"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-07T00:25:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0105"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-03T07:37:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0129"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-06T00:42:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0157"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-10T12:47:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-04T09:36:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0188"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-08T05:03:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0191",
+            "price": 63.06
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-09T10:38:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0108"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-08T14:57:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-09T04:37:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-10T14:19:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-07T05:23:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-02T14:19:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-09T21:00:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0177"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-11T05:25:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-09T19:19:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-02T21:02:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0109"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-06T23:01:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0128"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-06T22:41:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0187"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-04T12:34:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0157",
+            "price": 31.52
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-10T13:11:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-09T21:47:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-03T18:37:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0191",
+            "price": 8.76
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-01T17:55:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-09T07:54:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0184"
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-05T08:51:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-06T19:01:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-04T07:57:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0192"
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-03T20:48:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-03T17:25:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-10T10:51:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-06T06:44:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-03T18:46:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-05T03:34:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0171"
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-02T18:02:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0123"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-05T02:11:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-10T04:18:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0102"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-01T17:31:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0112"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-10T14:04:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0100",
+            "price": 140.27
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-10T14:30:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0164"
+        }
+    },
+    {
+        "userId": "user_025",
+        "timestamp": "2025-04-05T13:12:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-02T01:20:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0141"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-08T00:38:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-09T20:12:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-01T19:29:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-02T04:24:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0141"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-07T08:44:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-06T04:53:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-01T23:08:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-02T11:05:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0121",
+            "price": 14.07
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-07T23:33:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0116"
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-01T21:11:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0129"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-05T09:58:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-04T13:12:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-08T17:15:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-03T20:26:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0182"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-08T02:21:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-02T13:29:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0192"
+        }
+    },
+    {
+        "userId": "user_025",
+        "timestamp": "2025-04-04T15:17:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0126"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-04T00:52:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-10T04:04:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0191",
+            "price": 96.31
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-09T22:50:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0159"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-04T00:55:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0136",
+            "price": 148.77
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-09T04:25:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0101",
+            "price": 13.15
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-01T12:20:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-07T21:21:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0188",
+            "price": 61.29
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-03T03:37:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-05T03:19:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0123"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-05T10:53:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0173"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-05T03:37:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-04T03:13:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0157"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-03T19:49:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0175",
+            "price": 60.81
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-06T15:44:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-07T04:10:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-06T00:42:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0154"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-08T02:13:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-01T22:06:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0160"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-02T15:41:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-06T08:23:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-08T12:18:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-08T06:25:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0182"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-10T14:57:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-09T07:04:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0197"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-05T20:57:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-07T09:33:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0173",
+            "price": 115.0
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-05T13:28:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-09T00:15:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0106"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-06T03:12:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-08T01:21:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0157"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-06T05:10:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-03T08:49:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0129"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-05T21:24:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-05T02:56:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-02T20:59:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-10T03:40:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0131"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-10T06:49:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-10T17:25:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0126"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-06T07:39:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0106",
+            "price": 137.14
+        }
+    },
+    {
+        "userId": "user_017",
+        "timestamp": "2025-04-04T04:16:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0176"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-10T07:36:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-02T16:12:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0120",
+            "price": 115.07
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-01T22:58:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-03T22:33:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0186",
+            "price": 35.55
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-07T17:43:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0130"
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-08T12:29:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-05T19:48:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0178",
+            "price": 105.31
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-06T11:01:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0138"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-01T08:28:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0106"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-07T20:09:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-07T19:32:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-03T21:44:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-07T04:47:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-11T07:20:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-05T20:11:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0121"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-01T14:48:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-07T01:13:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0167"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-03T19:39:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-06T09:54:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0190"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-03T12:24:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-04T10:32:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0136"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-01T14:53:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0111"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-07T19:26:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0197",
+            "price": 144.5
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-04T11:53:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-02T21:12:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-08T08:45:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0151"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-05T06:54:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-01T21:04:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-03T22:08:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-03T13:23:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-02T08:13:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-05T13:03:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0191"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-07T17:56:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0170"
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-06T20:37:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0188"
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-06T09:29:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-05T15:58:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0195",
+            "price": 12.03
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-04T06:10:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-04T22:52:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-07T23:14:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0130"
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-10T09:34:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0149"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-03T13:30:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-05T14:40:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0175",
+            "price": 189.98
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-07T20:41:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0146"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-02T12:24:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_025",
+        "timestamp": "2025-04-05T04:40:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-09T17:02:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-02T06:11:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-05T03:34:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-06T12:56:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0134"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-06T06:29:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-07T16:51:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0109"
+        }
+    },
+    {
+        "userId": "user_017",
+        "timestamp": "2025-04-10T09:53:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0123"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-05T13:23:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-09T23:56:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0160",
+            "price": 87.9
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-02T13:40:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-04T08:51:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0137",
+            "price": 93.33
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-07T16:49:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0116"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-04T19:41:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0171",
+            "price": 122.14
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-08T22:03:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0194"
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-06T21:32:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-03T05:07:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-03T04:42:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0156"
+        }
+    },
+    {
+        "userId": "user_017",
+        "timestamp": "2025-04-09T08:21:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-04T17:54:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-05T09:10:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-08T12:05:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0122"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-04T14:10:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-03T10:26:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0112",
+            "price": 173.22
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-06T15:42:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0127",
+            "price": 176.86
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-10T09:17:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0178"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-06T17:53:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0136",
+            "price": 168.88
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-04T01:35:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-07T02:36:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-02T01:33:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-05T08:36:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0174",
+            "price": 172.41
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-04T00:49:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-03T06:15:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0139"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-10T03:14:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-02T19:16:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0121"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-08T13:19:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0155"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-08T20:31:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-02T23:20:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0135",
+            "price": 29.32
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-09T01:45:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0148"
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-10T04:45:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0198",
+            "price": 38.86
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-04T16:48:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0161"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-04T10:16:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-04T18:35:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0155"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-07T15:35:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0122"
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-08T00:48:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_025",
+        "timestamp": "2025-04-09T21:24:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-04T15:20:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0103"
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-08T17:49:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0146"
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-03T09:27:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0114"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-07T19:34:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0178"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-06T07:35:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-08T02:34:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-08T08:50:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0147"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-06T01:23:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-03T00:51:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0160",
+            "price": 183.53
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-08T17:10:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-03T12:03:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0157",
+            "price": 181.11
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-07T19:18:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0141",
+            "price": 148.87
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-09T13:06:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0113",
+            "price": 23.54
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-07T16:46:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0185",
+            "price": 89.14
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-06T12:28:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0154",
+            "price": 169.81
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-10T17:32:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0134",
+            "price": 68.58
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-03T05:50:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-08T00:04:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-05T02:30:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-08T23:54:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0110",
+            "price": 197.25
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-10T21:53:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0188",
+            "price": 60.63
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-01T16:44:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0100"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-07T16:31:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-02T11:58:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0142"
+        }
+    },
+    {
+        "userId": "user_017",
+        "timestamp": "2025-04-10T20:45:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-07T01:11:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-06T10:11:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-03T16:43:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-02T06:39:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-05T20:49:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-05T02:20:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0113"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-01T08:34:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-07T18:02:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0142"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-10T17:39:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-02T03:53:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0139"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-07T15:44:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0111"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-06T03:41:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0151"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-03T23:06:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0165"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-03T01:55:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0125"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-09T20:08:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0186",
+            "price": 173.85
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-03T16:15:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-07T20:23:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_025",
+        "timestamp": "2025-04-05T07:15:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-03T07:09:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0197"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-02T15:04:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0148"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-06T16:17:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-04T22:54:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0106"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-06T20:59:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-10T18:32:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0152",
+            "price": 27.23
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-02T10:46:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-01T19:37:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-01T13:22:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-07T06:03:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-02T06:23:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-04T16:20:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-06T23:53:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0107"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-10T21:03:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-08T02:11:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0193"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-07T16:35:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-06T20:50:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-08T18:01:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-01T15:31:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0196"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-04T03:51:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-09T02:18:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0168"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-10T15:31:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-08T18:48:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-02T09:32:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-04T01:52:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0131"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-09T01:59:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0104"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-08T04:08:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0106"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-04T09:34:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0104"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-09T09:45:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-05T03:54:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-06T12:05:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-09T19:51:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0137"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-03T11:07:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0164"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-02T16:16:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0123",
+            "price": 63.32
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-03T10:12:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-10T03:50:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0118"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-08T22:37:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-02T11:01:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0126",
+            "price": 81.96
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-06T19:51:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-09T20:06:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-01T11:00:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-06T02:20:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0154"
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-08T09:58:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-04T22:04:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-07T06:01:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-09T23:35:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-09T08:23:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0112"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-02T03:06:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0160"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-01T18:18:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0128"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-08T19:40:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-05T12:50:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-10T14:34:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-06T15:55:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0110",
+            "price": 194.97
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-06T23:38:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-01T22:12:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-11T00:08:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0123",
+            "price": 148.73
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-06T23:51:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-11T05:00:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-09T16:33:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0101"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-08T09:46:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0175"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-08T04:45:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-08T10:50:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0159",
+            "price": 109.86
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-07T12:14:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0114"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-02T08:24:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0182"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-09T16:20:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0115"
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-03T11:19:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_025",
+        "timestamp": "2025-04-04T15:44:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0195",
+            "price": 89.21
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-07T14:59:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-01T22:12:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0180"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-05T23:42:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-02T10:36:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0134"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-11T05:09:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-02T17:48:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-09T05:23:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0152"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-06T21:59:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0112"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-06T00:43:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0182"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-05T03:55:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-08T13:43:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-02T16:52:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-05T17:27:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0187"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-09T22:20:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-03T14:55:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-07T21:18:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0197"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-07T23:10:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0143"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-08T02:21:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-08T16:19:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-03T21:09:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0131"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-10T21:15:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-08T05:27:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-07T15:52:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-07T03:34:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-10T09:30:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0125"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-10T17:40:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-10T18:32:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_017",
+        "timestamp": "2025-04-06T08:32:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0175"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-08T15:05:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0162"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-02T15:31:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-10T09:51:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0121",
+            "price": 193.42
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-07T00:28:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-04T06:15:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0129",
+            "price": 97.46
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-02T07:53:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0194"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-01T13:55:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-07T19:58:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-06T10:59:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0133",
+            "price": 152.24
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-04T03:14:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0113",
+            "price": 123.45
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-06T13:31:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-05T05:36:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_026",
+        "timestamp": "2025-04-09T21:35:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0133",
+            "price": 91.59
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-06T23:02:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0165"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-06T07:14:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0134",
+            "price": 15.58
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-11T06:31:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0178"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-03T14:54:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-03T13:57:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-07T12:51:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-04T17:36:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_017",
+        "timestamp": "2025-04-03T22:18:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0115",
+            "price": 148.19
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-02T14:15:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0141"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-09T23:02:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-11T06:04:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0119"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-08T00:53:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0109"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-02T23:47:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0124",
+            "price": 64.45
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-04T01:58:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0156"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-08T19:18:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-06T08:46:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0189",
+            "price": 49.49
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-11T03:59:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-04T10:13:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0150"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-06T23:34:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-09T04:29:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0133"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-11T07:15:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-09T14:21:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0130",
+            "price": 173.49
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-02T15:20:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0150",
+            "price": 107.8
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-09T21:31:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0174"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-05T21:42:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-10T10:38:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-05T14:42:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-04T19:36:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-11T01:12:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-06T06:27:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0136"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-07T04:29:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0192"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-02T08:23:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0131"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-03T04:18:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-10T19:58:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_002",
+        "timestamp": "2025-04-04T03:42:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-06T13:09:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-04T06:58:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-01T08:48:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-04T19:44:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0166"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-06T02:51:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-07T12:59:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0162"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-06T23:37:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-08T20:47:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-07T01:41:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-07T10:28:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0103",
+            "price": 35.38
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-02T16:53:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-10T05:50:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0124"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-06T11:46:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0152",
+            "price": 123.62
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-09T03:14:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0180",
+            "price": 17.76
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-01T14:44:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0147",
+            "price": 104.16
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-09T11:22:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-01T12:06:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-04T22:39:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-05T18:01:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-07T18:37:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-05T02:22:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0164",
+            "price": 107.35
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-10T05:41:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0129"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-10T12:31:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-01T16:30:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-07T18:03:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0169",
+            "price": 191.52
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-01T08:12:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_035",
+        "timestamp": "2025-04-04T22:16:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-02T14:31:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-08T08:32:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-09T12:31:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-07T15:00:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-09T14:00:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-03T01:48:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0160"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-04T03:31:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-08T23:17:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-02T10:56:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0162"
+        }
+    },
+    {
+        "userId": "user_025",
+        "timestamp": "2025-04-04T20:05:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0119"
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-05T01:14:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0107"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-08T01:59:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0142"
+        }
+    },
+    {
+        "userId": "user_045",
+        "timestamp": "2025-04-04T18:21:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0192"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-07T07:54:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-10T01:58:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-07T14:26:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0183"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-09T16:06:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0112",
+            "price": 20.54
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-03T02:14:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0152"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-08T08:49:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-08T13:30:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-05T20:47:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0140"
+        }
+    },
+    {
+        "userId": "user_017",
+        "timestamp": "2025-04-10T05:34:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0187"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-09T20:18:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0152"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-10T17:23:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0167"
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-09T12:24:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0194",
+            "price": 182.21
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-10T14:17:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0122"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-07T12:58:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-02T14:53:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0144"
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-07T22:44:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-10T18:30:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0187"
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-06T20:26:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0189"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-06T07:22:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0178"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-07T23:21:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-10T18:54:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-02T02:28:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0145"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-01T16:30:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0135",
+            "price": 129.69
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-05T00:10:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-02T03:53:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0135",
+            "price": 139.12
+        }
+    },
+    {
+        "userId": "user_044",
+        "timestamp": "2025-04-02T21:30:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_025",
+        "timestamp": "2025-04-06T00:24:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0160"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-03T06:30:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0174"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-09T06:31:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-01T18:45:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0124"
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-04T19:06:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0140",
+            "price": 52.33
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-01T13:15:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_005",
+        "timestamp": "2025-04-10T17:25:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0117",
+            "price": 71.7
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-08T15:52:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0159"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-07T12:02:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0153",
+            "price": 63.08
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-10T11:49:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0109"
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-05T15:54:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-11T07:04:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0102",
+            "price": 124.19
+        }
+    },
+    {
+        "userId": "user_004",
+        "timestamp": "2025-04-04T09:20:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0180",
+            "price": 105.09
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-06T20:48:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-05T11:53:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-09T04:32:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_014",
+        "timestamp": "2025-04-10T15:43:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-05T00:28:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0165"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-03T18:07:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-05T15:44:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-07T17:03:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-01T20:33:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0195"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-08T03:29:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-07T17:03:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0141",
+            "price": 98.61
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-07T01:52:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-10T06:41:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-03T15:40:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0197"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-08T23:25:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0193"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-10T00:50:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0196"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-09T16:00:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0135"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-10T17:31:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-02T00:05:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_007",
+        "timestamp": "2025-04-09T17:07:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0126"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-08T11:16:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0117"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-05T08:38:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-10T05:27:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-08T02:33:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0138"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-02T16:51:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_024",
+        "timestamp": "2025-04-04T13:14:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0124"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-10T22:29:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0127",
+            "price": 79.17
+        }
+    },
+    {
+        "userId": "user_013",
+        "timestamp": "2025-04-11T07:47:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0101"
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-08T22:23:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0142"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-01T22:41:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0119",
+            "price": 84.83
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-09T23:16:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0164"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-07T10:26:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0167",
+            "price": 45.13
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-06T09:31:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0195",
+            "price": 130.13
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-02T05:36:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-09T03:23:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0184",
+            "price": 155.28
+        }
+    },
+    {
+        "userId": "user_032",
+        "timestamp": "2025-04-05T15:29:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-05T16:57:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-04T20:28:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-03T15:24:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-10T13:42:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0111"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-04T03:46:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0191"
+        }
+    },
+    {
+        "userId": "user_036",
+        "timestamp": "2025-04-10T20:39:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0111"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-06T14:36:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0173"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-09T02:29:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0135"
+        }
+    },
+    {
+        "userId": "user_050",
+        "timestamp": "2025-04-11T00:07:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-02T07:30:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-08T06:50:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0106"
+        }
+    },
+    {
+        "userId": "user_047",
+        "timestamp": "2025-04-03T10:46:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0153",
+            "price": 196.04
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-02T19:21:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-10T14:10:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-03T09:19:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0125"
+        }
+    },
+    {
+        "userId": "user_046",
+        "timestamp": "2025-04-02T08:10:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0126"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-07T01:48:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_022",
+        "timestamp": "2025-04-09T14:39:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0171",
+            "price": 63.03
+        }
+    },
+    {
+        "userId": "user_001",
+        "timestamp": "2025-04-06T11:19:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0122"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-02T02:08:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-09T09:53:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0115"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-03T14:50:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0164"
+        }
+    },
+    {
+        "userId": "user_048",
+        "timestamp": "2025-04-01T22:16:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0126",
+            "price": 188.29
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-05T20:11:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-05T12:11:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-06T01:47:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0175"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-07T01:04:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-07T19:00:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-02T03:23:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_006",
+        "timestamp": "2025-04-02T14:33:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_018",
+        "timestamp": "2025-04-09T17:37:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0171"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-05T10:53:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0104"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-03T20:17:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-02T12:04:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_023",
+        "timestamp": "2025-04-09T17:06:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_043",
+        "timestamp": "2025-04-02T20:56:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0196"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-09T11:17:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-11T05:09:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-03T07:17:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_025",
+        "timestamp": "2025-04-09T18:14:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-10T21:48:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0141"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-01T20:24:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0122",
+            "price": 122.5
+        }
+    },
+    {
+        "userId": "user_003",
+        "timestamp": "2025-04-06T06:14:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0176",
+            "price": 163.71
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-10T06:04:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0146"
+        }
+    },
+    {
+        "userId": "user_034",
+        "timestamp": "2025-04-08T02:19:00",
+        "action": "purchase",
+        "metadata": {
+            "item_id": "0195",
+            "price": 16.38
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-04T15:35:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-07T03:14:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_011",
+        "timestamp": "2025-04-07T05:26:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-07T03:14:00",
+        "action": "logout",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_017",
+        "timestamp": "2025-04-06T06:04:00",
+        "action": "login",
+        "metadata": {
+            "device": "web"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-09T01:00:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-07T06:30:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-01T19:56:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0104"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-02T02:24:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_016",
+        "timestamp": "2025-04-02T19:30:00",
+        "action": "error",
+        "metadata": {
+            "code": "500"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-10T09:18:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_015",
+        "timestamp": "2025-04-10T04:25:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0180"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-08T13:31:00",
+        "action": "logout",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_009",
+        "timestamp": "2025-04-05T02:51:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0190"
+        }
+    },
+    {
+        "userId": "user_041",
+        "timestamp": "2025-04-08T13:45:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0168"
+        }
+    },
+    {
+        "userId": "user_039",
+        "timestamp": "2025-04-02T09:57:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_010",
+        "timestamp": "2025-04-06T13:55:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_028",
+        "timestamp": "2025-04-07T03:31:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0175"
+        }
+    },
+    {
+        "userId": "user_012",
+        "timestamp": "2025-04-07T05:09:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-02T11:53:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0106"
+        }
+    },
+    {
+        "userId": "user_017",
+        "timestamp": "2025-04-09T04:03:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0176"
+        }
+    },
+    {
+        "userId": "user_037",
+        "timestamp": "2025-04-03T05:24:00",
+        "action": "login",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_030",
+        "timestamp": "2025-04-07T02:58:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0198"
+        }
+    },
+    {
+        "userId": "user_021",
+        "timestamp": "2025-04-08T02:43:00",
+        "action": "error",
+        "metadata": {
+            "code": "404"
+        }
+    },
+    {
+        "userId": "user_033",
+        "timestamp": "2025-04-06T15:54:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_049",
+        "timestamp": "2025-04-06T02:25:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_031",
+        "timestamp": "2025-04-06T01:43:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0114"
+        }
+    },
+    {
+        "userId": "user_019",
+        "timestamp": "2025-04-05T12:34:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_008",
+        "timestamp": "2025-04-09T02:42:00",
+        "action": "login",
+        "metadata": {
+            "device": "mobile"
+        }
+    },
+    {
+        "userId": "user_040",
+        "timestamp": "2025-04-02T14:38:00",
+        "action": "error",
+        "metadata": {
+            "code": "401"
+        }
+    },
+    {
+        "userId": "user_038",
+        "timestamp": "2025-04-06T21:18:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0119"
+        }
+    },
+    {
+        "userId": "user_029",
+        "timestamp": "2025-04-08T12:16:00",
+        "action": "error",
+        "metadata": {
+            "code": "403"
+        }
+    },
+    {
+        "userId": "user_027",
+        "timestamp": "2025-04-02T19:57:00",
+        "action": "view_item",
+        "metadata": {
+            "item_id": "0178"
+        }
+    },
+    {
+        "userId": "user_020",
+        "timestamp": "2025-04-09T14:48:00",
+        "action": "logout",
+        "metadata": {
+            "device": "tablet"
+        }
+    },
+    {
+        "userId": "user_042",
+        "timestamp": "2025-04-08T14:24:00",
+        "action": "add_to_cart",
+        "metadata": {
+            "item_id": "0166"
+        }
     }
 ]
