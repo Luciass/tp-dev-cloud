@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>💬 Mini Chat Firebase</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h2>Mini Chat Firebase</h2>
+    <input id="nom" placeholder="Votre nom"><br><br>
+    <textarea id="message" placeholder="Votre message" rows="4" cols="40"></textarea><br><br>
+    <button onclick="envoyer()">Envoyer</button>
+    <button onclick="charger()">Actualiser les messages</button>
+    <pre id="resultat"></pre>
+
+    <script>
+        function envoyer() {
+            const nom = document.getElementById('nom').value;
+            const message = document.getElementById('message').value;
+            fetch('/envoyer', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ nom, message })
+            })
+            .then(res => res.json())
+            .then(() => {
+                document.getElementById('resultat').innerText = "✅ Message envoyé !";
+                charger();
+            });
+        }
+
+        function charger() {
+            fetch('/messages')
+            .then(res => res.json())
+            .then(data => {
+                let contenu = '';
+                for (let key in data) {
+                    const msg = data[key];
+                    contenu += `🧑‍💻 ${msg.nom}: ${msg.message}\n`;
+                }
+                document.getElementById('resultat').innerText = contenu;
+            });
+        }
+
+        charger();
+    </script>
+</body>
+</html>
