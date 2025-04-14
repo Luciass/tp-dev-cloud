@@ -26,6 +26,12 @@ def messages():
         return jsonify(response.json()), 200
     return jsonify({"error": "Erreur de lecture"}), 500
 
+@app.route('/logs')
+def get_logs():
+    with open('logs.json') as f:
+        data = json.load(f)
+    return jsonify(data)
+
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)

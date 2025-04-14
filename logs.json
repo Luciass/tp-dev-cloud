@@ -1,0 +1,12 @@
+[
+    {
+        "user_id": "user1",
+        "action": "login",
+        "timestamp": "2025-04-14T10:00:00Z"
+    },
+    {
+        "user_id": "user2",
+        "action": "click",
+        "timestamp": "2025-04-14T10:05:00Z"
+    }
+]
